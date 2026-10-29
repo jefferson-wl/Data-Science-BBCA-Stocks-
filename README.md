@@ -3,7 +3,6 @@ A Data Science group project analyzing historical closing prices of Bank Central
 Project Overview
 Stock prices change over time and can be affected by market conditions and unexpected events. This project explores historical BBCA stock data through exploratory data analysis (EDA), time-series decomposition, stationarity testing, forecasting, and model comparison.
 
-The project was completed as part of ALP Data Science (B) by Group 9.
 Objectives
 - Explore historical BBCA stock prices and trading volume.
 - Examine daily returns, rolling averages, and time-series components.
